@@ -36,6 +36,11 @@ section {
     margin-top: 20px;
 }
 
+section ul li p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 h3 {
     margin-bottom: 5px;
 }
