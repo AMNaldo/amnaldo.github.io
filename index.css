@@ -8,6 +8,10 @@ body {
     margin: 0 auto;
 }
 
+a {
+    color: inherit;
+}
+
 header {
     display: flex;
     align-items: center;
@@ -34,6 +38,7 @@ header li {
 
 section {
     margin-top: 20px;
+    page-break-inside: avoid;
 }
 
 section ul li p {
