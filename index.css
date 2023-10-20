@@ -74,6 +74,11 @@ body {
     margin-top: 0;
     margin-bottom: 10px;
   }
+
+  a {
+    color: #000000; /* Change to the color you prefer */
+    text-decoration: underline;
+  }
   
   section:last-child ul,
   section:last-child .activity {
