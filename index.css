@@ -107,9 +107,9 @@ body {
     background: linear-gradient(to right, rgb(0, 0, 0), rgb(23, 23, 23)),
       linear-gradient(
         to right,
-        rgba(255, 0, 0, 1),
-        rgba(255, 0, 180, 1),
-        rgba(0, 100, 200, 1)
+        rgb(9, 168, 139),
+        rgb(8, 116, 217),
+        rgb(10, 2, 232)
       );
     background-size: 100% 1.5px, 0 1.5px;
     background-position: 100% 100%, 0 100%;
