@@ -65,6 +65,15 @@ body {
     margin-bottom: 5px;
   }
   
+  .certifications h4 {
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  .certifications span {
+    font-style: normal;
+  }
+    
   .duration {
     font-weight: normal;
     font-style: italic;
